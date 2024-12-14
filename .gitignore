@@ -1,0 +1,12 @@
+# Ignore PyCharm settings
+.idea/
+
+# Ignore Python virtual environment
+.venv/
+
+# Ignore compiled Python files
+__pycache__/
+*.py[cod]
+
+# Ignore output files
+output.txt
